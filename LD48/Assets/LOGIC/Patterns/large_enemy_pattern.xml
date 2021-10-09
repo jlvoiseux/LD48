@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!DOCTYPE bulletml SYSTEM "bulletml.dtd">
+<bulletml>
+  <action label="top">
+    <param>90</param>
+    <param>180</param>
+    <param>270</param>
+    <wait>180</wait>
+    <repeat>
+      <times>1000</times>
+      <action>
+        <fire>
+          <direction type="sequence">91</direction>
+          <speed>10</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="sequence">91</direction>
+          <speed>10</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="sequence">91</direction>
+          <speed>10</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="sequence">91</direction>
+          <speed>10</speed>
+          <bullet/>
+        </fire>
+        <wait>5</wait>
+      </action>
+    </repeat>
+  </action>
+</bulletml>
