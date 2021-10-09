@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<bulletml>
+<action label="top">
+    <repeat>
+        <times>1000</times>
+        <action>
+            <fire>
+                <bullet>
+                    <direction type="aim">0</direction>
+                    <speed>7.5</speed>
+                </bullet>
+            </fire>
+            <wait>75</wait>
+        </action>
+    </repeat>
+</action>
+</bulletml>
