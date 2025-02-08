@@ -1,4 +1,4 @@
-Play here: 
+Play here: https://jlv_.gitlab.io/ld48_live/
 
 ![41ea2](https://github.com/user-attachments/assets/1224d269-c79d-442f-a590-c0742c0705ef)
 
